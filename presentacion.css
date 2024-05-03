@@ -22,3 +22,11 @@ body{
 div{
     text-align: center;
 }
+
+p{
+    text-align: center;
+    margin: 50px;
+    font-style:oblique;
+    color: aliceblue;
+    font-size:larger;
+}
