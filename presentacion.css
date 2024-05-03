@@ -3,7 +3,15 @@ ul, ol {
     background-color: rgb(79, 138, 138) ;
 }
 
-h2, h1{
+h2{
+    background-color: rgb(109, 190, 190);
+    margin-right: 900px;
+    text-align: center;
+    
+}
+
+h1{
+    margin: 40px 520px;
     background-color: rgb(109, 190, 190);
 }
 
